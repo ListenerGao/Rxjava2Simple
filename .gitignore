@@ -2,6 +2,10 @@
 .gradle
 /local.properties
 /.idea/caches
+#EOS规范
+/.idea/codeStyles
+/.idea/inspectionProfiles
+#EOS规范
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
